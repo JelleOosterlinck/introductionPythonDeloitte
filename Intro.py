@@ -1,2 +1,3 @@
-print("Hello It's me")
-print("I've been wondering")
+import pandas as pd
+s = pd.Series ([1,2,3])
+print(s)
